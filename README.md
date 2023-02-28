@@ -1,2 +1,1 @@
-# unit-test-example
-.NET Unit Test Xunit
+# .NET 7 console - Using UnitTest Xunit
