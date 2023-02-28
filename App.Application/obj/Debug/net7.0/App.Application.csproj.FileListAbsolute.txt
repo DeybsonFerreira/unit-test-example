@@ -1,0 +1,15 @@
+C:\C#\base\unit-test-example\App.Application\bin\Debug\net7.0\App.Application.exe
+C:\C#\base\unit-test-example\App.Application\bin\Debug\net7.0\App.Application.deps.json
+C:\C#\base\unit-test-example\App.Application\bin\Debug\net7.0\App.Application.runtimeconfig.json
+C:\C#\base\unit-test-example\App.Application\bin\Debug\net7.0\App.Application.dll
+C:\C#\base\unit-test-example\App.Application\bin\Debug\net7.0\App.Application.pdb
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.csproj.AssemblyReference.cache
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfoInputs.cache
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfo.cs
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.csproj.CoreCompileInputs.cache
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.dll
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\refint\App.Application.dll
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.pdb
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\App.Application.genruntimeconfig.cache
+C:\C#\base\unit-test-example\App.Application\obj\Debug\net7.0\ref\App.Application.dll
